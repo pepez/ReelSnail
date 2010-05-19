@@ -138,11 +138,7 @@
                 }
                 
             }
-            
-            //char myChars[3] = {'A','B','C'};
-   
-            
-            //NSString* junk = [[NSString alloc] initWithBytes:[myData bytes] length:[myData length] encoding:NSASCIIStringEncoding];
+
             [textOut setEnabled:YES];
             [textOut setIntValue:currentRate];
             [saveButtonOut setEnabled:YES];
